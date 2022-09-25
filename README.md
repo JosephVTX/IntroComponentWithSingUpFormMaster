@@ -56,7 +56,3 @@ I want to keep focusing on learning better and optimal ways to validate a form i
 ### Useful resources
 
 - [Falcon Master's Tutorial](https://youtu.be/s3pC93LgP18) - This helped me beacuse it's a tutorial of how to validate a form usign JS
-
-## Author
-
-- Frontend Mentor - [@JoshMooner](https://www.frontendmentor.io/profile/JoshMooner)
