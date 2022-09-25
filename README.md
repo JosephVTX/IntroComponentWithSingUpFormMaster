@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/IntroComponentWithSingUpFormMaster](https://github.com/JoshMooner/IntroComponentWithSingUpFormMaster)
-- Live Site URL: [https://joshmooner.github.io/IntroComponentWithSingUpFormMaster/](https://joshmooner.github.io/IntroComponentWithSingUpFormMaster/)
+- Solution URL: [https://github.com/JosephVTX/IntroComponentWithSingUpFormMaster/](https://github.com/JosephVTX/IntroComponentWithSingUpFormMaster/)
+- Live Site URL: [https://josephvtx.github.io/IntroComponentWithSingUpFormMaster/](https://josephvtx.github.io/IntroComponentWithSingUpFormMaster/)
 
 ## My process
 
